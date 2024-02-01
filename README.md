@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSlaik&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, iniciando na área de programção Front End!!
+Apaixonado por tecnologia, iniciando na área de Dev Front End!!
 
 ## Email Para Contato:
 felipeslaik@gmail.com
