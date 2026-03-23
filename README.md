@@ -1,7 +1,7 @@
 ### Olá! Eu sou o FelipeSantos 👋🏾
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-89271a26a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_santos245/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=github&logoColor=white)](https://felipeslaik.github.io/Portfolio/)
 
 ![FelipeSlaik GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSlaik&show_icons=true&theme=cobalt)
 
