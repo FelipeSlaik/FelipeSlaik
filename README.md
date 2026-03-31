@@ -17,5 +17,5 @@
 Apaixonado por tecnologia e desenvolvimento Front-End! Sempre aprendendo e criando projetos para o meu portfólio. 💻🚀
 
 ## Contato
-✉️ felipeslaik@gmail.com
+✉️ felipesantos277pereira@gmail.com
 
